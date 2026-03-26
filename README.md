@@ -1,121 +1,79 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7lovescode/7lovescode/main/resources/image.gif" width="100%" />
+</div>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
+  Hi there, I'm Abhilanshu! 
+</h1>
+
+<div align="center">
+  <a href="https://github.com/Abhilanshu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A7;Building+AI+%26+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+### 🚀 About Me
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 I’m currently building an <strong>AI-Powered Personal Finance Mentor</strong>.</li>
+        <li>🌱 I’m currently focusing on <strong>Full Stack Web Dev, AI Integrations, and 3D Portfolios</strong>.</li>
+        <li>💡 Passionate about creating seamless user experiences, scalable architecture, and premium front-end aesthetics.</li>
+        <li>📫 How to reach me: <a href="mailto:your-email@example.com"><strong>Let's Connect</strong></a></li>
+      </ul>
+    </td>
+    <td width="40%">
+      <div align="center">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation">
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tech Stack & Skills
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,html,vite,git,kubernetes,docker,linux,aws&perline=8" />
 </p>
 
-<h1 align="center">🔥 Abhilanshu Vittolia 🔥</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;3D+Animation+Creator;MERN+Stack+Engineer;Cinematic+Web+Experience+Builder🔥;Hackathon+Ready+Developer⚡" />
-</p>
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhilanshu&label=Profile+Views&color=ff0000&style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhilanshu&show_icons=true&theme=radical&hide_border=true&border_radius=10&animation=true" alt="Abhilanshu's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilanshu&theme=radical&hide_border=true&border_radius=10" alt="Abhilanshu's GitHub Streak" />
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🧠 About Me
+### 🐍 Contribution Activity (Enable via Actions)
+You can set up a GitHub Action to auto-generate a snake eating your contributions graph!
+<div align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</div>
 
-🚀 B.Tech Student (AI & Data Science)  
-💻 Full Stack Developer (MERN Stack)  
-🎮 3D Web Animation Creator (Three.js + WebGL)  
+<br/>
 
-🔥 I specialize in building **cinematic, high-performance web experiences** that combine design, animation, and logic.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhilanshu&label=Profile%20Views&color=F97316&style=flat-square" alt="Profile Views" />
+</div>
 
----
+<div align="center">
+  <i>"Code is poetry written for machines, experienced by humans."</i>
+</div>
 
-## 🐉 Featured Project — Rise of the Dragon
-
-💀 A next-gen cinematic website built to impress users & judges  
-
-✨ Features:
-- 🐲 Realistic 3D Dragon (Three.js)  
-- 🔥 Fire, Smoke & Particle Effects  
-- 🎬 Scroll-based storytelling  
-- 🎧 Sound effects + voice narration  
-- ⚡ Advanced shaders & glow FX  
-
-🚀 **Live Demo:**  
-👉 https://your-project-link-here.vercel.app  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### 🎮 3D & Animation
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhilanshu&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilanshu&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilanshu&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Abhilanshu/Abhilanshu/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-
-✔️ Salesforce Agentforce Certified  
-✔️ Google – Foundations of Data  
-✔️ Cisco – Introduction to IoT & Digital Transformation  
-
----
-
-## 💼 Experience
-
-**Junior Software Engineer Intern**  
-BPH Technologies LLP  
-
-- Built scalable backend APIs  
-- Worked on real-world production projects  
-- Improved performance & code quality  
-
----
-
-## 🌐 Connect With Me
-
-📧 abhilanshuvittolia22@gmail.com  
-📱 +91 62685 25520  
-
----
-
-## ⚡ Final Line
-
-💀 I don’t build normal websites...  
-🔥 I create cinematic digital experiences that blow minds.
-
----
-
-⭐ If you like my work, give a star to my repositories!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+</div>
