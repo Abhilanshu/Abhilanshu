@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/7lovescode/7lovescode/main/resources/image.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhilanshu&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Creative%20Engineer&descAlignY=60&descSize=22" width="100%" alt="3D Waving Background Banner" />
 </div>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-  Hi there, I'm Abhilanshu! 
-</h1>
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px">
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Coding" width="220" />
