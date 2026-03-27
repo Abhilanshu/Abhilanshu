@@ -4,9 +4,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px">
-</div>
+<h1 align="center">
+  Hi there, I'm Abhilanshu! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Coding" width="220" />
@@ -86,9 +86,13 @@ You can set up a GitHub Action to auto-generate a snake eating your contribution
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="60px" alt="Earth Animation" />
+  <br/>
+  <br/>
   <i>"Code is poetry written for machines, experienced by humans."</i>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 </div>
+
