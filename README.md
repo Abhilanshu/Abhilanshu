@@ -63,7 +63,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhilanshu&show_icons=true&theme=radical&hide_border=true&border_radius=10&animation=true" alt="Abhilanshu's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhilanshu&show_icons=true&theme=radical&hide_border=true&border_radius=10&animation=true" alt="Abhilanshu's GitHub Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilanshu&theme=radical&hide_border=true&border_radius=10" alt="Abhilanshu's GitHub Streak" />
@@ -95,4 +95,3 @@ You can set up a GitHub Action to auto-generate a snake eating your contribution
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 </div>
-
