@@ -3,28 +3,20 @@
 </div>
 
 <h1 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
   Hi there, I'm Abhilanshu! 
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35" />
 </h1>
 
 <div align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="30" height="30" />
-  <a href="https://github.com/Abhilanshu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A7;Building+AI+%26+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Coding" width="220" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="32" height="32" />
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="32" height="32" />
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32" />
+  <a href="https://github.com/Abhilanshu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A7;Building+AI+%26+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -60,6 +52,12 @@
 </div>
 
 ### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhilanshu&theme=radical&margin-w=15&margin-h=15&row=1&column=6&no-frame=true" alt="Abhilanshu Trophies" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhilanshu&show_icons=true&theme=radical&hide_border=true&border_radius=10&animation=true" alt="Abhilanshu's GitHub Stats" />
