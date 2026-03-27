@@ -53,9 +53,11 @@
 
 ### 📊 GitHub Analytics
 
+<!-- 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhilanshu&theme=radical&margin-w=15&margin-h=15&row=1&column=6&no-frame=true" alt="Abhilanshu Trophies" />
 </div>
+-->
 
 <br/>
 
