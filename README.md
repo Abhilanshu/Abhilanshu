@@ -1,67 +1,73 @@
 <div align="center">
 
-<!-- 🎬 HERO — developer intro + animated banner -->
-<img src="./hero.svg?v=1" alt="Hi, I'm Abhilanshu — Full-Stack &amp; AI Developer" width="100%"/>
-
-<br/><br/>
-
-<!-- 👨‍💻 LEFT: what I build   •   🎮 RIGHT: life outside code -->
-<img src="./about-life.svg?v=1" alt="What I build, and life beyond the code" width="100%"/>
-
-<br/><br/>
-
-<!-- ⚛️ TECH STACK -->
-<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
-
-<br/><br/>
-
-<!-- 🪪 DEVELOPER ID + DASHBOARD -->
-<img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%"/>
-
-<br/><br/>
+<img src="./assets/ab-banner.svg" alt="Abhilanshu Vittolia, Full-Stack and Generative AI Developer" width="100%"/>
 
 </div>
 
-## ⚡ Featured Projects
+<table>
+<tr>
+<td width="360" align="center" valign="top">
+<img src="./assets/ab-lanyard.svg" alt="Abhilanshu ID badge" width="340"/>
+</td>
+<td valign="top">
 
-| Project | What it is | Tech Stack | Live / Repo |
-|:---|:---|:---|:---:|
-| [**NetDoctor AI**](https://github.com/Abhilanshu/NET-DOCTOR-) | Intelligent AI-driven network diagnosis & rule verification engine | `Python` `Flask` `AI/LLM` `Cisco` | [🔗 Repo](https://github.com/Abhilanshu/NET-DOCTOR-) |
-| [**Full-Stack Web Suite**](https://github.com/Abhilanshu) | High-performance responsive web platform with modern frontend architecture | `React` `JavaScript` `Node.js` `CSS` | [🔗 Repo](https://github.com/Abhilanshu) |
-| [**AI Assistant & Automation**](https://github.com/Abhilanshu) | Autonomous task execution, prompt engineering & API integrations | `Python` `FastAPI` `REST` `Docker` | [🔗 Repo](https://github.com/Abhilanshu) |
+### 🚀 My Builds
 
-<br/>
+<table>
+<tr><th>🛰️ Project</th><th>💻 Tech</th><th>⭐</th></tr>
+<tr><td><a href="https://github.com/Abhilanshu/GeoSmart-AI">🗺️ GeoSmart AI, crisis resource map</a></td><td><code>MERN</code> <code>Gemini API</code> <code>Google Maps</code></td><td>0</td></tr>
+<tr><td><a href="https://github.com/Abhilanshu/NET-DOCTOR-">🧳 TWIP Capstone</a></td><td><code>Python, Flask, AI Engine</code></td><td>0</td></tr>
+<tr><td><a href="https://github.com/Abhilanshu/SmartBridge-GenAI">🤖 Generative AI work, SmartBridge</a></td><td><code>GenAI</code> <code>Google Cloud</code></td><td>0</td></tr>
+<tr><td><a href="https://github.com/Abhilanshu/MERN-BPH-Tech">⚙️ MERN work, BPH Technologies</a></td><td><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></td><td>0</td></tr>
+</table>
+
+> 💙 *"I don't just use AI, I code with it."*
+
+</td>
+</tr>
+</table>
+
+### 🧰 Tech Stack
+
+<img src="./assets/marquee.svg" alt="Skills" width="100%"/>
+
+<div align="center">
+<img src="./assets/orbit.svg" alt="Stack in orbit" width="640"/>
+</div>
+
+### 📊 GitHub Stats & Graphs
 
 <div align="center">
 
-## 🌃 My Contribution City
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhilanshu&show_icons=true&hide_border=true&bg_color=0a1330&title_color=22d3ee&icon_color=3b82f6&text_color=c9d6ee" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilanshu&layout=compact&hide_border=true&bg_color=0a1330&title_color=22d3ee&text_color=c9d6ee" alt="Top Languages"/>
 
-*Every commit builds another tower — rebuilt automatically every day.*
+<img src="https://streak-stats.demolab.com?user=Abhilanshu&theme=radical&hide_border=true&background=0a1330&ring=22d3ee&fire=fbbf24&currStreakLabel=60a5fa" alt="GitHub Streak"/>
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilanshu&bg_color=0a1330&color=22d3ee&line=3b82f6&point=fbbf24&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
 
-<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhilanshu&theme=onedark&no-frame=true&row=1&margin-w=12" alt="Trophies"/>
 
-## 🐍 Contribution Snake
+</div>
 
-<img src="https://raw.githubusercontent.com/Abhilanshu/Abhilanshu/output/github-snake-cyan.svg" alt="Contribution Snake" width="100%"/>
+### 🐍 Watch the snake eat my contributions
 
-<br/><br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Abhilanshu/Abhilanshu/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+</div>
 
-<!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
+### 📫 Let's Connect
 
-<a href="https://github.com/Abhilanshu"><img src="https://img.shields.io/badge/GitHub-38bdf8?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a>
-<a href="mailto:abhilanshu@gmail.com"><img src="https://img.shields.io/badge/Email-818cf8?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
-<a href="https://linkedin.com/in/Abhilanshu"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
-<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-c084fc?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/></a>
+<div align="center">
 
-<br/><br/>
+[![Email](https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilanshu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhilanshu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0a1330)](https://linkedin.com/in/Abhilanshu)
 
-<img src="https://komarev.com/ghpvc/?username=Abhilanshu&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+![Profile views](https://komarev.com/ghpvc/?username=Abhilanshu&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/>
+*⭐ Always learning, always building.* 💙
 
-**Always learning, always building.** ⚡
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
