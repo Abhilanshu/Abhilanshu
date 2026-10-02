@@ -1,74 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Abhilanshu%20Vittolia&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20and%20Generative%20AI%20Developer&descSize=20&descAlignY=58" width="100%" alt="Banner"/>
+<!-- 🎬 HERO — developer intro + animated banner -->
+<img src="./hero.svg?v=1" alt="Hi, I'm Abhilanshu — Full-Stack &amp; AI Developer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=I+don't+just+use+AI%2C+I+code+with+it;Building+GeoSmart+AI;MERN+%7C+Next.js+%7C+Gemini+API;B.Tech+CSE+(AI+%26+Data+Science)+%7C+2027" alt="Typing"/>
+<br/><br/>
 
-</div>
+<!-- 👨‍💻 LEFT: what I build   •   🎮 RIGHT: life outside code -->
+<img src="./about-life.svg?v=1" alt="What I build, and life beyond the code" width="100%"/>
 
-<table>
-<tr>
-<td width="240" align="center" valign="top">
-<img src="https://github.com/YOUR-USERNAME.png" width="200" alt="Abhilanshu"/>
-<br/><b>Abhilanshu Vittolia</b>
-<br/>Full-Stack and GenAI Developer
-</td>
-<td valign="top">
+<br/><br/>
 
-### 🚀 My Builds
+<!-- ⚛️ TECH STACK -->
+<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
 
-| Project | Tech |
-| --- | --- |
-| [🗺️ GeoSmart AI](https://github.com/YOUR-USERNAME/YOUR-GEOSMART-REPO) | `MERN` `Gemini API` `Google Maps` |
-| [🧳 TWIP Capstone](https://github.com/YOUR-USERNAME/YOUR-TWIP-REPO) | `YOUR TECH` |
-| 🤖 SmartBridge GenAI work | `GenAI` `Google Cloud` |
-| ⚙️ BPH Technologies MERN work | `MongoDB` `Express` `React` `Node.js` |
+<br/><br/>
 
-> 💙 *"I don't just use AI, I code with it."*
+<!-- 🪪 DEVELOPER ID + DASHBOARD -->
+<img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%"/>
 
-</td>
-</tr>
-</table>
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0a1330?style=for-the-badge&logo=mongodb&logoColor=22d3ee)
-![Express](https://img.shields.io/badge/Express-0a1330?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-0a1330?style=for-the-badge&logo=react&logoColor=22d3ee)
-![Node.js](https://img.shields.io/badge/Node.js-0a1330?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee)
-![Next.js](https://img.shields.io/badge/Next.js-0a1330?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0a1330?style=for-the-badge&logo=amazonaws&logoColor=fbbf24)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0a1330?style=for-the-badge&logo=googlecloud&logoColor=3b82f6)
-![Gemini](https://img.shields.io/badge/Gemini_API-0a1330?style=for-the-badge&logo=googlegemini&logoColor=8b8cf7)
+<br/><br/>
 
 </div>
 
-### 📊 GitHub Stats
+## ⚡ Featured Projects
+
+| Project | What it is | Tech Stack | Live / Repo |
+|:---|:---|:---|:---:|
+| [**NetDoctor AI**](https://github.com/Abhilanshu/NET-DOCTOR-) | Intelligent AI-driven network diagnosis & rule verification engine | `Python` `Flask` `AI/LLM` `Cisco` | [🔗 Repo](https://github.com/Abhilanshu/NET-DOCTOR-) |
+| [**Full-Stack Web Suite**](https://github.com/Abhilanshu) | High-performance responsive web platform with modern frontend architecture | `React` `JavaScript` `Node.js` `CSS` | [🔗 Repo](https://github.com/Abhilanshu) |
+| [**AI Assistant & Automation**](https://github.com/Abhilanshu) | Autonomous task execution, prompt engineering & API integrations | `Python` `FastAPI` `REST` `Docker` | [🔗 Repo](https://github.com/Abhilanshu) |
+
+<br/>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0a1330&title_color=22d3ee&icon_color=3b82f6&text_color=c9d6ee" alt="Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=0a1330&title_color=22d3ee&text_color=c9d6ee" alt="Languages"/>
+## 🌃 My Contribution City
 
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical&hide_border=true&background=0a1330&ring=22d3ee&fire=fbbf24" alt="Streak"/>
+*Every commit builds another tower — rebuilt automatically every day.*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0a1330&color=22d3ee&line=3b82f6&point=fbbf24&area=true&area_color=3b82f6&hide_border=true" alt="Activity graph"/>
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
 
-</div>
+<br/><br/>
 
-### 📫 Let's Connect
+## 🐍 Contribution Snake
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Abhilanshu/Abhilanshu/output/github-snake-cyan.svg" alt="Contribution Snake" width="100%"/>
 
-[![Email](https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0a1330)](https://linkedin.com/in/YOUR-HANDLE)
+<br/><br/>
 
-![Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- 💌 LET'S CONNECT -->
+<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
 
-*⭐ Always learning, always building.* 💙
+<a href="https://github.com/Abhilanshu"><img src="https://img.shields.io/badge/GitHub-38bdf8?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a>
+<a href="mailto:abhilanshu@gmail.com"><img src="https://img.shields.io/badge/Email-818cf8?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
+<a href="https://linkedin.com/in/Abhilanshu"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
+<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-c084fc?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abhilanshu&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+**Always learning, always building.** ⚡
 
 </div>

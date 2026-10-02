@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 600" width="1280" height="600" role="img" aria-label="What I build, and life beyond the code">
+  <title>What I build, and life beyond the code</title>
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b0f19"/>
+    </linearGradient>
+
+    <linearGradient id="leftGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <linearGradient id="rightGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      
+      .font-inter { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+      .font-mono { font-family: 'Fira Code', monospace; }
+      
+      .card {
+        fill: url(#cardBg);
+        stroke: #1e293b;
+        stroke-width: 2;
+        rx: 16px;
+      }
+
+      .card-header-left {
+        font-family: 'Fira Code', monospace;
+        font-size: 14px;
+        font-weight: 700;
+        fill: #38bdf8;
+        letter-spacing: 1.5px;
+      }
+
+      .card-header-right {
+        font-family: 'Fira Code', monospace;
+        font-size: 14px;
+        font-weight: 700;
+        fill: #c084fc;
+        letter-spacing: 1.5px;
+      }
+
+      .card-title {
+        font-family: 'Inter', sans-serif;
+        font-size: 26px;
+        font-weight: 800;
+        fill: #f8fafc;
+      }
+
+      .item-title {
+        font-family: 'Inter', sans-serif;
+        font-size: 17px;
+        font-weight: 700;
+        fill: #e2e8f0;
+      }
+
+      .item-desc {
+        font-family: 'Inter', sans-serif;
+        font-size: 14px;
+        fill: #94a3b8;
+      }
+
+      .tag-bg {
+        fill: #1e293b;
+        stroke: #334155;
+        stroke-width: 1;
+        rx: 6px;
+      }
+
+      .tag-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 12px;
+        fill: #38bdf8;
+      }
+    </style>
+  </defs>
+
+  <!-- Left Card: DEVELOPER -->
+  <g transform="translate(40, 20)">
+    <rect width="580" height="560" class="card"/>
+    <rect x="0" y="0" width="580" height="4" fill="url(#leftGlow)" rx="2"/>
+
+    <g transform="translate(36, 45)">
+      <text x="0" y="0" class="card-header-left">// DEVELOPER</text>
+      <text x="0" y="32" class="card-title">What I build &amp; architect</text>
+
+      <!-- URL Bar Simulation -->
+      <g transform="translate(0, 50)">
+        <rect width="508" height="32" rx="6" fill="#020617" stroke="#1e293b"/>
+        <circle cx="16" cy="16" r="4" fill="#ef4444"/>
+        <circle cx="28" cy="16" r="4" fill="#f59e0b"/>
+        <circle cx="40" cy="16" r="4" fill="#10b981"/>
+        <text x="56" y="21" class="font-mono" font-size="12" fill="#64748b">localhost:5173/abhilanshu</text>
+      </g>
+
+      <!-- Feature 1 -->
+      <g transform="translate(0, 115)">
+        <circle cx="16" cy="16" r="16" fill="#0284c7" fill-opacity="0.2"/>
+        <text x="16" y="22" font-size="16" text-anchor="middle">💻</text>
+        <text x="46" y="14" class="item-title">Full-Stack &amp; Web Applications</text>
+        <text x="46" y="34" class="item-desc">Responsive, high-performance web apps built with React, Node &amp; JS.</text>
+      </g>
+
+      <!-- Feature 2 -->
+      <g transform="translate(0, 205)">
+        <circle cx="16" cy="16" r="16" fill="#6366f1" fill-opacity="0.2"/>
+        <text x="16" y="22" font-size="16" text-anchor="middle">🤖</text>
+        <text x="46" y="14" class="item-title">AI &amp; Intelligent Diagnostics</text>
+        <text x="46" y="34" class="item-desc">NetDoctor AI, rule checkers, prompt engineering &amp; LLM backends.</text>
+      </g>
+
+      <!-- Feature 3 -->
+      <g transform="translate(0, 295)">
+        <circle cx="16" cy="16" r="16" fill="#10b981" fill-opacity="0.2"/>
+        <text x="16" y="22" font-size="16" text-anchor="middle">⚡</text>
+        <text x="46" y="14" class="item-title">Scalable REST APIs &amp; Microservices</text>
+        <text x="46" y="34" class="item-desc">Robust backend endpoints, Python (Flask/FastAPI) &amp; database systems.</text>
+      </g>
+
+      <!-- Tech Stack Badges at Bottom -->
+      <g transform="translate(0, 395)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#64748b" font-weight="600">CORE FOCUS</text>
+        
+        <g transform="translate(0, 15)">
+          <rect x="0" y="0" width="85" height="28" class="tag-bg"/>
+          <text x="42" y="18" class="tag-text" text-anchor="middle">Python</text>
+
+          <rect x="95" y="0" width="105" height="28" class="tag-bg"/>
+          <text x="147" y="18" class="tag-text" text-anchor="middle">JavaScript</text>
+
+          <rect x="210" y="0" width="85" height="28" class="tag-bg"/>
+          <text x="252" y="18" class="tag-text" text-anchor="middle">React</text>
+
+          <rect x="305" y="0" width="105" height="28" class="tag-bg"/>
+          <text x="357" y="18" class="tag-text" text-anchor="middle">FastAPI</text>
+
+          <rect x="420" y="0" width="85" height="28" class="tag-bg"/>
+          <text x="462" y="18" class="tag-text" text-anchor="middle">Docker</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right Card: OFF THE CLOCK -->
+  <g transform="translate(660, 20)">
+    <rect width="580" height="560" class="card"/>
+    <rect x="0" y="0" width="580" height="4" fill="url(#rightGlow)" rx="2"/>
+
+    <g transform="translate(36, 45)">
+      <text x="0" y="0" class="card-header-right">// OFF THE CLOCK</text>
+      <text x="0" y="32" class="card-title">Life beyond the terminal</text>
+
+      <!-- Status Bar Simulation -->
+      <g transform="translate(0, 50)">
+        <rect width="508" height="32" rx="6" fill="#020617" stroke="#1e293b"/>
+        <text x="16" y="21" class="font-mono" font-size="12" fill="#a855f7">status: active &amp; exploring</text>
+        <text x="420" y="21" class="font-mono" font-size="12" fill="#64748b">mode: chill</text>
+      </g>
+
+      <!-- Interest 1 -->
+      <g transform="translate(0, 115)">
+        <circle cx="16" cy="16" r="16" fill="#a855f7" fill-opacity="0.2"/>
+        <text x="16" y="22" font-size="16" text-anchor="middle">🎮</text>
+        <text x="46" y="14" class="item-title">Gaming &amp; Sci-Fi Universe</text>
+        <text x="46" y="34" class="item-desc">Competitive gaming sessions, strategy games &amp; immersive virtual worlds.</text>
+      </g>
+
+      <!-- Interest 2 -->
+      <g transform="translate(0, 205)">
+        <circle cx="16" cy="16" r="16" fill="#ec4899" fill-opacity="0.2"/>
+        <text x="16" y="22" font-size="16" text-anchor="middle">🔥</text>
+        <text x="46" y="14" class="item-title">Anime &amp; Motion Design</text>
+        <text x="46" y="34" class="item-desc">Big fan of epic anime battles, storytelling &amp; futuristic UI aesthetic.</text>
+      </g>
+
+      <!-- Interest 3 -->
+      <g transform="translate(0, 295)">
+        <circle cx="16" cy="16" r="16" fill="#f59e0b" fill-opacity="0.2"/>
+        <text x="16" y="22" font-size="16" text-anchor="middle">💪</text>
+        <text x="46" y="14" class="item-title">Fitness &amp; Self Improvement</text>
+        <text x="46" y="34" class="item-desc">Workout, gym sessions, continuous learning &amp; healthy lifestyle.</text>
+      </g>
+
+      <!-- Personal Hobbies Badges -->
+      <g transform="translate(0, 395)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#64748b" font-weight="600">FAVORITES</text>
+        
+        <g transform="translate(0, 15)">
+          <rect x="0" y="0" width="100" height="28" class="tag-bg" stroke="#a855f7"/>
+          <text x="50" y="18" class="tag-text" fill="#c084fc" text-anchor="middle">🎮 Gaming</text>
+
+          <rect x="110" y="0" width="105" height="28" class="tag-bg" stroke="#ec4899"/>
+          <text x="162" y="18" class="tag-text" fill="#f472b6" text-anchor="middle">🍿 Anime</text>
+
+          <rect x="225" y="0" width="105" height="28" class="tag-bg" stroke="#f59e0b"/>
+          <text x="277" y="18" class="tag-text" fill="#fbbf24" text-anchor="middle">🏋️ Fitness</text>
+
+          <rect x="340" y="0" width="115" height="28" class="tag-bg" stroke="#10b981"/>
+          <text x="397" y="18" class="tag-text" fill="#34d399" text-anchor="middle">☕ Coffee &amp; Code</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

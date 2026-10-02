@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 580" width="1280" height="580" role="img" aria-label="Developer ID and Dashboard">
+  <title>Developer ID and Dashboard</title>
+  <defs>
+    <linearGradient id="idCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <linearGradient id="dashBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b0f19"/>
+    </linearGradient>
+
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&amp;family=Inter:wght@400;600;700;800;900&amp;display=swap');
+      
+      .font-inter { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+      .font-mono { font-family: 'Fira Code', monospace; }
+
+      .id-card {
+        fill: url(#idCardBg);
+        stroke: #312e81;
+        stroke-width: 2;
+        rx: 16px;
+      }
+
+      .dash-card {
+        fill: url(#dashBg);
+        stroke: #1e293b;
+        stroke-width: 2;
+        rx: 16px;
+      }
+
+      .pulse {
+        animation: pulseAnim 2s infinite;
+      }
+      @keyframes pulseAnim {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.4; }
+      }
+
+      .stat-num {
+        font-family: 'Fira Code', monospace;
+        font-size: 36px;
+        font-weight: 700;
+        fill: #38bdf8;
+      }
+
+      .stat-label {
+        font-family: 'Inter', sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        fill: #94a3b8;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+
+  <!-- Left Side: Developer ID Badge -->
+  <g transform="translate(40, 20)">
+    <rect width="440" height="540" class="id-card"/>
+    <rect x="0" y="0" width="440" height="4" fill="url(#badgeGrad)" rx="2"/>
+
+    <!-- ID Header -->
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#818cf8" font-weight="700" letter-spacing="1.5">// DEVELOPER ID CARD</text>
+      <text x="360" y="0" class="font-mono" font-size="12" fill="#34d399">VERIFIED</text>
+
+      <!-- Avatar Photo / Graphic -->
+      <g transform="translate(100, 30)">
+        <circle cx="84" cy="84" r="72" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+        <!-- Silhouette Male Avatar -->
+        <ellipse cx="84" cy="74" rx="26" ry="30" fill="#cbd5e1"/>
+        <path d="M 58 68 C 55 40, 70 30, 88 30 C 106 30, 116 40, 112 68 C 102 50, 70 50, 58 68 Z" fill="#0f172a"/>
+        <!-- Glasses -->
+        <rect x="68" y="70" width="34" height="12" rx="3" fill="#0284c7"/>
+        <line x1="70" y1="76" x2="100" y2="76" stroke="#ffffff" stroke-width="2"/>
+        <path d="M 34 165 C 34 115, 55 105, 84 105 C 113 105, 134 115, 134 165 Z" fill="#475569"/>
+      </g>
+
+      <!-- ID Info -->
+      <g transform="translate(0, 230)">
+        <text x="184" y="0" class="font-inter" font-size="28" font-weight="900" fill="#f8fafc" text-anchor="middle">Abhilanshu</text>
+        <text x="184" y="26" class="font-mono" font-size="14" fill="#38bdf8" text-anchor="middle">@Abhilanshu</text>
+
+        <line x1="20" y1="45" x2="348" y2="45" stroke="#312e81" stroke-width="1.5"/>
+
+        <g transform="translate(20, 70)">
+          <text x="0" y="0" class="font-mono" font-size="12" fill="#64748b">ROLE</text>
+          <text x="140" y="0" class="font-inter" font-size="14" fill="#e2e8f0" font-weight="600">Full-Stack &amp; AI Dev</text>
+
+          <text x="0" y="30" class="font-mono" font-size="12" fill="#64748b">LOCATION</text>
+          <text x="140" y="30" class="font-inter" font-size="14" fill="#e2e8f0" font-weight="600">India 🇮🇳</text>
+
+          <text x="0" y="60" class="font-mono" font-size="12" fill="#64748b">STATUS</text>
+          <text x="140" y="60" class="font-mono" font-size="14" fill="#34d399" font-weight="700">● ACTIVE &amp; BUILDING</text>
+
+          <text x="0" y="90" class="font-mono" font-size="12" fill="#64748b">SPECIALTY</text>
+          <text x="140" y="90" class="font-inter" font-size="14" fill="#c084fc" font-weight="600">Python, React, AI</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right Side: Developer Dashboard Metrics -->
+  <g transform="translate(510, 20)">
+    <rect width="730" height="540" class="dash-card"/>
+    <rect x="0" y="0" width="730" height="4" fill="url(#badgeGrad)" rx="2"/>
+
+    <g transform="translate(40, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#38bdf8" font-weight="700" letter-spacing="1.5">// DEVELOPER DASHBOARD</text>
+      <text x="0" y="28" class="font-inter" font-size="24" font-weight="800" fill="#f8fafc">Profile Activity &amp; Highlights</text>
+
+      <!-- Stat Box 1: Public Repos -->
+      <g transform="translate(0, 60)">
+        <rect width="315" height="120" rx="12" fill="#020617" stroke="#1e293b"/>
+        <g transform="translate(24, 30)">
+          <text x="0" y="0" class="stat-label">PUBLIC REPOSITORIES</text>
+          <text x="0" y="45" class="stat-num">
+            0<animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.3;0.6" dur="2s" begin="0s" fill="freeze"/>
+            <animate attributeName="opacity" calcMode="discrete" values="1" dur="2s" begin="0.6s" fill="freeze"/>
+            25+
+          </text>
+          <text x="230" y="40" font-size="28">📁</text>
+        </g>
+      </g>
+
+      <!-- Stat Box 2: Total Commits -->
+      <g transform="translate(335, 60)">
+        <rect width="315" height="120" rx="12" fill="#020617" stroke="#1e293b"/>
+        <g transform="translate(24, 30)">
+          <text x="0" y="0" class="stat-label">YEARLY COMMITS</text>
+          <text x="0" y="45" class="stat-num" fill="#818cf8">500+</text>
+          <text x="230" y="40" font-size="28">🔥</text>
+        </g>
+      </g>
+
+      <!-- Stat Box 3: Code Quality -->
+      <g transform="translate(0, 200)">
+        <rect width="315" height="120" rx="12" fill="#020617" stroke="#1e293b"/>
+        <g transform="translate(24, 30)">
+          <text x="0" y="0" class="stat-label">PRIMARY LANGUAGE</text>
+          <text x="0" y="45" class="stat-num" fill="#34d399">Python &amp; JS</text>
+          <text x="230" y="40" font-size="28">⚡</text>
+        </g>
+      </g>
+
+      <!-- Stat Box 4: Project Contributions -->
+      <g transform="translate(335, 200)">
+        <rect width="315" height="120" rx="12" fill="#020617" stroke="#1e293b"/>
+        <g transform="translate(24, 30)">
+          <text x="0" y="0" class="stat-label">FEATURED IMPACT</text>
+          <text x="0" y="45" class="stat-num" fill="#c084fc">NetDoctor AI</text>
+          <text x="230" y="40" font-size="28">🚀</text>
+        </g>
+      </g>
+
+      <!-- Bottom Code Quote Box -->
+      <g transform="translate(0, 340)">
+        <rect width="650" height="100" rx="12" fill="#020617" stroke="#312e81"/>
+        <g transform="translate(24, 30)">
+          <text x="0" y="0" class="font-mono" font-size="13" fill="#64748b">const philosophy = {</text>
+          <text x="20" y="24" class="font-mono" font-size="13" fill="#38bdf8">code: <tspan fill="#34d399">"Clean &amp; Scalable"</tspan>,</text>
+          <text x="20" y="44" class="font-mono" font-size="13" fill="#38bdf8">mission: <tspan fill="#c084fc">"Build intelligent solutions that solve real problems"</tspan></text>
+          <text x="0" y="64" class="font-mono" font-size="13" fill="#64748b">};</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
