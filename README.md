@@ -1,73 +1,97 @@
 <div align="center">
-
-<img src="./assets/ab-banner.svg" alt="Abhilanshu Vittolia, Full-Stack and Generative AI Developer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhilanshu&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Creative%20Engineer&descAlignY=60&descSize=22" width="100%" alt="3D Waving Background Banner" />
 </div>
 
-<table>
-<tr>
-<td width="360" align="center" valign="top">
-<img src="./assets/ab-lanyard.svg" alt="Abhilanshu ID badge" width="340"/>
-</td>
-<td valign="top">
+<br/>
 
-### 🚀 My Builds
+<h1 align="center">
+  Hi there, I'm Abhilanshu! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+</h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Coding" width="220" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Abhilanshu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A7;Building+AI+%26+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+### 🚀 About Me
 <table>
-<tr><th>🛰️ Project</th><th>💻 Tech</th><th>⭐</th></tr>
-<tr><td><a href="https://github.com/Abhilanshu/GeoSmart-AI">🗺️ GeoSmart AI, crisis resource map</a></td><td><code>MERN</code> <code>Gemini API</code> <code>Google Maps</code></td><td>0</td></tr>
-<tr><td><a href="https://github.com/Abhilanshu/NET-DOCTOR-">🧳 TWIP Capstone</a></td><td><code>Python, Flask, AI Engine</code></td><td>0</td></tr>
-<tr><td><a href="https://github.com/Abhilanshu/SmartBridge-GenAI">🤖 Generative AI work, SmartBridge</a></td><td><code>GenAI</code> <code>Google Cloud</code></td><td>0</td></tr>
-<tr><td><a href="https://github.com/Abhilanshu/MERN-BPH-Tech">⚙️ MERN work, BPH Technologies</a></td><td><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></td><td>0</td></tr>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 I’m currently building an <strong>AI-Powered Personal Finance Mentor</strong>.</li>
+        <li>🌱 I’m currently focusing on <strong>Full Stack Web Dev, AI Integrations, and 3D Portfolios</strong>.</li>
+        <li>💡 Passionate about creating seamless user experiences, scalable architecture, and premium front-end aesthetics.</li>
+        <li>📫 How to reach me: <a href="mailto:your-email@example.com"><strong>Let's Connect</strong></a></li>
+      </ul>
+    </td>
+    <td width="40%">
+      <div align="center">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation">
+      </div>
+    </td>
+  </tr>
 </table>
 
-> 💙 *"I don't just use AI, I code with it."*
-
-</td>
-</tr>
-</table>
-
-### 🧰 Tech Stack
-
-<img src="./assets/marquee.svg" alt="Skills" width="100%"/>
+### 🛠️ Tech Stack & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,css,html,vite,git,kubernetes,docker,linux,aws&perline=8" />
+</p>
 
 <div align="center">
-<img src="./assets/orbit.svg" alt="Stack in orbit" width="640"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 📊 GitHub Stats & Graphs
+### 📊 GitHub Analytics
+
+<!-- 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhilanshu&theme=radical&margin-w=15&margin-h=15&row=1&column=6&no-frame=true" alt="Abhilanshu Trophies" />
+</div>
+-->
+
+<br/>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhilanshu&show_icons=true&hide_border=true&bg_color=0a1330&title_color=22d3ee&icon_color=3b82f6&text_color=c9d6ee" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilanshu&layout=compact&hide_border=true&bg_color=0a1330&title_color=22d3ee&text_color=c9d6ee" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Abhilanshu&theme=radical&hide_border=true&background=0a1330&ring=22d3ee&fire=fbbf24&currStreakLabel=60a5fa" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilanshu&bg_color=0a1330&color=22d3ee&line=3b82f6&point=fbbf24&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhilanshu&theme=onedark&no-frame=true&row=1&margin-w=12" alt="Trophies"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhilanshu&show_icons=true&theme=radical&hide_border=true&border_radius=10&animation=true" alt="Abhilanshu's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilanshu&theme=radical&hide_border=true&border_radius=10" alt="Abhilanshu's GitHub Streak" />
 </div>
 
-### 🐍 Watch the snake eat my contributions
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Abhilanshu/Abhilanshu/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 📫 Let's Connect
+### 🐍 Contribution Activity (Enable via Actions)
+You can set up a GitHub Action to auto-generate a snake eating your contributions graph!
+<div align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</div>
+
+<br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhilanshu&label=Profile%20Views&color=F97316&style=flat-square" alt="Profile Views" />
+</div>
 
-[![Email](https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilanshu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhilanshu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0a1330)](https://linkedin.com/in/Abhilanshu)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="60px" alt="Earth Animation" />
+  <br/>
+  <br/>
+  <i>"Code is poetry written for machines, experienced by humans."</i>
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Abhilanshu&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
-
-*⭐ Always learning, always building.* 💙
-
-<img src="./assets/footer.svg" width="100%" alt="footer"/>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 </div>
