@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhilanshu&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Creative%20Engineer&descAlignY=60&descSize=22" width="100%" alt="3D Waving Background Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhilanshu&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Creative%20Engineer&descAlignY=60&descSize=22" width="100%" alt="Waving Banner" />
 </div>
 
 <br/>
@@ -29,10 +29,10 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 I’m currently building an <strong>AI-Powered Personal Finance Mentor</strong>.</li>
-        <li>🌱 I’m currently focusing on <strong>Full Stack Web Dev, AI Integrations, and 3D Portfolios</strong>.</li>
+        <li>🔭 I’m currently building <strong>GeoSmart AI</strong>, an AI-powered geospatial dashboard (MERN + Gemini + Google Maps).</li>
+        <li>🌱 I’m focusing on <strong>Full Stack Web Dev, AI Integrations (Gemini API), and Cloud (AWS, Google Cloud)</strong>.</li>
         <li>💡 Passionate about creating seamless user experiences, scalable architecture, and premium front-end aesthetics.</li>
-        <li>📫 How to reach me: <a href="mailto:your-email@example.com"><strong>Let's Connect</strong></a></li>
+        <li>📫 How to reach me: <a href="https://github.com/Abhilanshu"><strong>Let's Connect</strong></a></li>
       </ul>
     </td>
     <td width="40%">
@@ -54,36 +54,30 @@
 
 ### 📊 GitHub Analytics
 
-<!-- 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhilanshu&theme=radical&margin-w=15&margin-h=15&row=1&column=6&no-frame=true" alt="Abhilanshu Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhilanshu&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="Abhilanshu's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilanshu&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="180" />
+  <br/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Abhilanshu&theme=radical&hide_border=true&border_radius=10" alt="Abhilanshu's GitHub Streak" />
 </div>
--->
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhilanshu&show_icons=true&theme=radical&hide_border=true&border_radius=10&animation=true" alt="Abhilanshu's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilanshu&theme=radical&hide_border=true&border_radius=10" alt="Abhilanshu's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhilanshu&theme=radical" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhilanshu&theme=radical" alt="Repos per Language" width="49%" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🐍 Contribution Activity (Enable via Actions)
-You can set up a GitHub Action to auto-generate a snake eating your contributions graph!
-<div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhilanshu&label=Profile%20Views&color=F97316&style=flat-square" alt="Profile Views" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="60px" alt="Earth Animation" />
